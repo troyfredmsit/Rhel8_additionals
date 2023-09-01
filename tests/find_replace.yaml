@@ -4,3 +4,4 @@
   tasks:
     - name: find and replace 
       here: stuff
+      andthen: we have this
